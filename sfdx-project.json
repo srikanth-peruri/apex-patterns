@@ -1,0 +1,35 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app/fflib-mocks",
+            "default": true            
+        },
+		{
+            "path": "force-app/fflib-common",
+            "default": false            
+        },
+		{
+            "path": "force-app/force-di",
+            "default": false            
+        },
+        {
+            "path": "force-app/force-di-trigger-demo",
+            "default": false
+        },
+        {
+            "path": "force-app/force-app-1",
+            "default": false
+        },
+        {
+            "path": "force-app/force-app-2",
+            "default": false
+        },
+        {
+            "path": "force-app/force-app-3",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0"    
+}
